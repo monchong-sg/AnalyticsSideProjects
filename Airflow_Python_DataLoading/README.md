@@ -59,15 +59,15 @@ Open the DAG created
 
 ### Run Dag
 Trigger the DAG
-![Run DAG](https://github.com/monchong-sg/GovTechAssessment/blob/a5253eec12a9f6b9a0babbe0da907f973000a703/2_Run_DAG.png)
+![Run DAG](https://github.com/monchong-sg/AnalyticsSideProjects/blob/bc61ddc8649845c4ec005e712d9d8662802118c7/Airflow_Python_DataLoading/1_Check_DAG.png)
  
 
 ### Check Graph View
 Check the processing status 
-![Check Run](https://github.com/monchong-sg/GovTechAssessment/blob/a5253eec12a9f6b9a0babbe0da907f973000a703/3_Check_Run.png)
+![Check Run](https://github.com/monchong-sg/AnalyticsSideProjects/blob/bc61ddc8649845c4ec005e712d9d8662802118c7/Airflow_Python_DataLoading/2_Run_DAG.png)
 
 
 ## DB File
 A DB file is also created which can be loaded to GUI-DB like DBeaver
 
-![DBeaver](https://github.com/monchong-sg/GovTechAssessment/blob/a63c30b8d69506b069d1e38d4bfc151a9985bbca/Datapipeline_DBeaver.png)
+![DBeaver](https://github.com/monchong-sg/AnalyticsSideProjects/blob/bc61ddc8649845c4ec005e712d9d8662802118c7/Airflow_Python_DataLoading/3_Check_Run.png)
