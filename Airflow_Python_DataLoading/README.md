@@ -1,4 +1,4 @@
-# Section 1: Data Pipelines
+# Data Pipelines
 Use Airflow to process merging of 2 datasets with some data cleansing activities
 Outputs to CSV and also a DB file which can be opened in SQL Lite for graphical version
 
