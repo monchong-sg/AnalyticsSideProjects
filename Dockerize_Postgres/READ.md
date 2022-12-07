@@ -35,7 +35,7 @@ Docker exec [container_id] /bin/bash
 ## 4. Validate Load
 Using a GUI DB tool like DBeaver, validate table creation and data insertion
 
-![DBeaverScreenshot](https://github.com/monchong-sg/GovTechAssessment/blob/3968b7a2ecbfaebbe631a003df148bc31df7487a/DDLSuccess_DBeaver.png)
+![DBeaverScreenshot](https://github.com/monchong-sg/AnalyticsSideProjects/blob/f85466f932758d0e061cc5df386bf05fa04c2379/Dockerize_Postgres/DDLSuccess_DBeaver.png)
 
  
 
