@@ -54,7 +54,7 @@ This starts both Airflow Webserver and Scheduler
 
 ### Verify DAG creation success
 Open the DAG created
-![Check DAG](https://github.com/monchong-sg/GovTechAssessment/blob/a5253eec12a9f6b9a0babbe0da907f973000a703/1_Check_DAG.png)
+![Check DAG](Airflow_Python_DataLoading/1_Check_DAG.png)
  
 
 ### Run Dag
